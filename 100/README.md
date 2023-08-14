@@ -10,6 +10,8 @@ A **Dependency** is an object or any software programming unit that is used by t
 
 **Dependency Injection (DI)** is one of the implementations of IoC based on the composition of dependencies in a client (dependent unit).
 
+See also [Dependency Injection](https://github.com/vanHeemstraSystems/dependency-injection).
+
 **Dependency Inversion Principle (DIP)** is one of [SOLID](https://en.wikipedia.org/wiki/SOLID)’s principles, which satisfies the following:
 
 - the upper levels modules do not depend on implementations of the lower levels ones. Modules should depend on abstractions;
